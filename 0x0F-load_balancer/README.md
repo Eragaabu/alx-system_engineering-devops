@@ -1,6 +1,11 @@
 # Load Balancer
 ### Author
+<<<<<<< HEAD
 M.E ABU <eragaabu@gmail.com>
+=======
+M.E ABU
+<eragaabu@gmail.com>
+>>>>>>> 84b7826970e672e0bdb74a35d76d664dfd24b490
 
 ## Description
 This directory gives us an idea on how to set up load balancing on our web sers
