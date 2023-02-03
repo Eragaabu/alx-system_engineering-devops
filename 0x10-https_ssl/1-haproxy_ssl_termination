@@ -35,10 +35,10 @@ defaults
 
 frontend myfrontend
 	bind *:80
-	bind *:443 ssl crt /etc/haproxy/certs/www.uniqueel.tech.pem
+	bind *:443 ssl crt /etc/haproxy/certs/www.eragaabu.tech.pem
 	default_backend myservers
 
 backend myservers
 	balance roundrobin
-	server web-01 52.86.0.187:80 check
-	server web-02 34.232.72.46:80 check	
+	server web-01 54.236.26.104:80 check
+	server web-02 18.206.206.202:80 check	
